@@ -1,6 +1,5 @@
 +++
 title = 'Sponsors'
-draft = true
 +++
 
 ## Sponsors
