@@ -24,6 +24,10 @@ title = "Bristol Gophers"
 name = "Code Of Conduct"
 url = "https://go.dev/conduct"
 
+[[params.profileMode.buttons]]
+name = "Meetup"
+url = "https://www.meetup.com/golang-bristol/"
+
 [[params.socialIcons]]
 name = "twitter"
 url = "https://twitter.com/golangbristol"
