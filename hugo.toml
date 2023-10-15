@@ -1,0 +1,21 @@
+baseURL = 'https://bristolgophers.dev/'
+languageCode = 'en-gb'
+title = 'Bristol Gophers'
+theme = "PaperMod"
+
+[params.profileMode]
+enabled = true
+title = "Bristol Gophers"
+# subtitle = "This is subtitle"
+# imageUrl = "<image link>"
+# imageTitle = "<title of image as alt>"
+# imageWidth = 120
+# imageHeight = 120
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/golangbristol"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/bristolgolang"
