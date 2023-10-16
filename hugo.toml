@@ -12,9 +12,9 @@ title = "Bristol Gophers"
 # imageWidth = 120
 # imageHeight = 120
 
-# [[params.profileMode.buttons]]
-# name = "Apply"
-# url = "apply"
+[[params.profileMode.buttons]]
+name = "Apply"
+url = "apply"
 
 # [[params.profileMode.buttons]]
 # name = "Sponsors"
