@@ -16,9 +16,9 @@ title = "Bristol Gophers"
 name = "Apply"
 url = "apply"
 
-# [[params.profileMode.buttons]]
-# name = "Sponsors"
-# url = "sponsors"
+[[params.profileMode.buttons]]
+name = "Sponsors"
+url = "sponsors"
 
 [[params.profileMode.buttons]]
 name = "Code Of Conduct"
