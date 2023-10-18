@@ -1,5 +1,7 @@
 +++
 title = 'Sponsors'
+ShowToc = true
+TocOpen = true
 +++
 
 ## Sponsors
@@ -14,4 +16,8 @@ We’re also incredibly passionate about [Tumelo’s culture](https://www.tumelo
 
 ### [Formula Recruitment](https://www.formularecruitment.co.uk/)
 
-Formula Recruitment is a specialist recruitment agency for the technology sector. We work with a range of clients from start-ups to global organisations, helping them to find the best talent in the market. We are passionate about the tech community and are proud to support the Bristol Go community.
+Formula is a specialist recruitment agency for the technology sector. We work with a range of businesses from start-ups to global organisations, helping them to find and hire exceptional talent. We are passionate about the tech community and are proud to support the Bristol Golang Meetup and our existing Go customers such as Utility Warehouse, Jetstack, Glint and more.
+
+We offer a flexible recruitment approach because we understand that agility is a key part of a successful recruitment strategy. Whether you need to grow your permanent head-count or you want to engage specialist Contractors we can help.
+
+With recruitment packages tailored from a unique set of capabilities and backed by industry-specific experience. You can stop worrying about attracting quality candidates, being left in the dark, or the way in which your message is communicated to the market, we've got it covered. As your recruitment partner we'll become an extension of your team and work relentlessly to deliver your recruitment goals.
