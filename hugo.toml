@@ -13,7 +13,7 @@ title = "Bristol Gophers"
 # imageHeight = 120
 
 [[params.profileMode.buttons]]
-name = "Apply"
+name = "Speak"
 url = "apply"
 
 [[params.profileMode.buttons]]
