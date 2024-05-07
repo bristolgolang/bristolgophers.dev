@@ -16,10 +16,15 @@ We offer a flexible recruitment approach because we understand that agility is a
 
 With recruitment packages tailored from a unique set of capabilities and backed by industry-specific experience. You can stop worrying about attracting quality candidates, being left in the dark, or the way in which your message is communicated to the market, we've got it covered. As your recruitment partner we'll become an extension of your team and work relentlessly to deliver your recruitment goals.
 
+
+### [AJ Bell](https://www.ajbell.co.uk/)
+
+The Touch team at AJ Bell is developing a next generation investment platform. We want to use technology to improve the way consumers access financial advice and manage their investments. 
+
+The majority of existing platforms are still reliant on software and processes that aren’t capable of supporting today’s technology, so we started from scratch, developing a modern platform that is as efficient as possible. We're building a mobile first investment  app that lets advisers manage their clients' investments entirely through their Smartphone. 
+
 ## Past Sponsors
 
 We'd love to thank all of our past sponsors for their role in supporting our meetup!
 
 ### [Tumelo](https://www.tumelo.com/)
-
-Tumelo is a venture-backed, impact-led financial technology firm. Our mission is to empower shareholder democracy with technology that supports impactful stewardship. Our technology suite gives retail and institutional investors full transparency over their investment holdings and enables them to have a voice on the issues they care about. We believe that our technology has the potential to create a more transparent and representative stewardship process, which will lead to better outcomes for investors and the industry as a whole.
