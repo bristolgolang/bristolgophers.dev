@@ -35,3 +35,7 @@ url = "https://twitter.com/golangbristol"
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/bristolgolang"
+
+[[params.socialIcons]]
+name = "discord"
+url = "https://discord.gg/XYuTEDyk4H"

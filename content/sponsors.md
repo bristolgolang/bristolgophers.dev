@@ -4,7 +4,7 @@ ShowToc = true
 TocOpen = true
 +++
 
-## Sponsors
+## Sponsors ❤️
 
 We'd love to thank our sponsors (in the order they sponsored us) for their support of our meetup!
 
@@ -19,12 +19,12 @@ With recruitment packages tailored from a unique set of capabilities and backed 
 
 ### [AJ Bell](https://www.ajbell.co.uk/)
 
-The Touch team at AJ Bell is developing a next generation investment platform. We want to use technology to improve the way consumers access financial advice and manage their investments. 
+The Touch team at AJ Bell is developing a next generation investment platform. We want to use technology to improve the way consumers access financial advice and manage their investments.
 
-The majority of existing platforms are still reliant on software and processes that aren’t capable of supporting today’s technology, so we started from scratch, developing a modern platform that is as efficient as possible. We're building a mobile first investment  app that lets advisers manage their clients' investments entirely through their Smartphone. 
+The majority of existing platforms are still reliant on software and processes that aren’t capable of supporting today’s technology, so we started from scratch, developing a modern platform that is as efficient as possible. We're building a mobile first investment  app that lets advisers manage their clients' investments entirely through their Smartphone.
 
 ## Past Sponsors
 
-We'd love to thank all of our past sponsors for their role in supporting our meetup!
+We'd also love to thank all of our past sponsors for their role in supporting our meetup!
 
 ### [Tumelo](https://www.tumelo.com/)
